@@ -1,3 +1,10 @@
+
+# TreeNode class for binary trees
+# https://en.wikipedia.org/wiki/Knapsack_problem
+#
+# (C) 2021 Frank Hofmann <frank.hofmann@efho.de>
+# Released under GNU Public License 2.0
+
 class TreeNode:
     def __init__(self, data):
         "constructor to initiate this object"
